@@ -21,7 +21,7 @@ Environment note: system Python is 3.9.6, so dbt-core installed as 1.10.23 (not 
 ## Folder layout
 
 ```
-new_project/
+online-retail-analytics/
   .venv/          Python environment (not committed)
   data/           raw files and the DuckDB database (not committed)
   dbt_project/    dbt models (SQL transformations)
